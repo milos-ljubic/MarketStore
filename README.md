@@ -1,4 +1,4 @@
-# PrimeMarketStore
+# MarketStore
 **How to start the application**
 
 This application is made in Eclipse IDE. Main class is located in PrimeMarketStore/src/ and run the main method.
